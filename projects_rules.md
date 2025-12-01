@@ -1,4 +1,7 @@
-# Cursor Rules - 针对 Next.js + NestJS + Vercel + Flutter + 原生移动端 + 浏览器插件 项目优化版
+---
+globs:
+alwaysApply: true
+---
 
 ## 核心工作原则
 
